@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hai theere >W< me ser joantas UUUUwUUUU 💙
+
+Meu nome é Jhonatan Mota
+
+Estou estudando no Alura  
+Estou me desenvolvendo na linguagem JavaScript  
+Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 <!--
 **jhonatan42/jhonatan42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
